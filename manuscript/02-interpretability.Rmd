@@ -440,7 +440,7 @@ In all other cases, where lay people or people with little time are the recipien
 
 An explanation is the **answer to a why-question** (Miller 2017).
 
-- Why did not the treatment work on the patient?
+- Why did the treatment not work on the patient?
 - Why was my loan rejected?
 - Why have we not been contacted by alien life yet?
 
